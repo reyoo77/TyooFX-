@@ -1,0 +1,9 @@
+
+forex-edu/
+│
+├── index.html           ← Halaman utama
+├── style.css            ← Desain dan tampilan
+└── images/              ← Folder gambar forex
+    ├── candlestick.png
+    ├── support-resistance.png
+    └── chart-example.jpg
